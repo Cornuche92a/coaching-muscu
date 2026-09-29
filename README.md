@@ -22,30 +22,41 @@ Une seule mission : **devenir plus fort et plus musclé**, séance après séanc
 
 ## ✨ Ce que fait l'app
 
-**🏋️ Le programme** — 4 séances/semaine en rotation : `PUSH FORCE` → `PULL FORCE` → `PUSH HYPERTROPHIE` → `PULL HYPERTROPHIE`. Les jours force travaillent lourd (4-8 reps, repos 2:30-3:00), les jours hypertrophie en volume (8-15 reps, repos courts, plus d'isolation). Un même mouvement est programmé différemment selon le jour. Tout est modifiable : exercices, séries, fourchettes, repos, jours.
+**🏋️ Le programme (powerbuilding haut du corps, sur machines)** — 4 mouvements lourds : `DÉVELOPPÉ` (Chest Press) · `TIRAGE VERTICAL` (Lat Pull Down) · `ÉPAULES` (Shoulder Press) · `ROWING` (Rameur assis), variante machine d'abord (stable, sans pareur → on peut pousser près de l'échec en sécurité), pilotés au **e1RM et au RPE** : rampes → **top set** → back-offs. Semaine type à 4 jours : `PUSH A · PECS` → `PULL A · DOS LARGEUR` → `PUSH B · ÉPAULES` → `PULL B · DOS ÉPAISSEUR` ; chaque mouvement lourd revient **1× lourd + 1× en volume** par semaine. 2, 3, 5 ou 6 jours : split adapté automatiquement. Jambes : aucune (défaut), entretien (presse + leg curl) ou complet.
 
-**🧠 Le coach** — avant chaque exercice : *charge recommandée + une phrase d'explication + objectif du jour* (« viser ≥ 31 reps totales »). Après : verdict nuancé (mieux / similaire / moins bien). Check-in de 10 s avant la séance (sommeil, énergie, courbatures, motivation) analysé **en tendance** — une seule mauvaise nuit ne change rien.
+**🔗 L'enchaînement** — chaque séance suit le même ordre vérifié : mouvement lourd → volume de l'autre mouvement lourd → angle différent (incliné, dips, rowing appuyé…) → isolations en alternance → abdos. Cinq règles sont contrôlées et affichées dans *Mon programme* : le plus lourd en premier, **aucune pré-fatigue** (pas d'isolation avant un composé du même muscle), jamais deux isolations du même muscle d'affilée, au moins un exercice en **position étirée**, abdos à la fin.
 
-**📈 La progression** — records automatiques (charge max, reps à charge donnée, e1RM estimé, max au poids du corps, assistance minimale, lest max), graphiques sur 30 j / 3 mois / 6 mois / tout, volume hebdo par muscle (polyarticulaires comptés en fractions), bilan « suis-je plus fort qu'il y a un mois ? ».
+**📌 Programme stable par bloc** — les exercices restent fixes pendant tout le bloc pour que chaque kilo gagné soit mesurable. Au bloc suivant, **ceux qui stagnent sont remplacés, ceux qui progressent restent** (journal des changements affiché). Cadenas pour garder un exercice, bouton « varier les accessoires ».
 
-**⚡ En séance** — saisie une main : préremplissage des valeurs recommandées, RIR optionnel, timer de repos automatique (+30 s / relancer / passer), échauffements hors stats, bouton « Machine indispo » → alternative du même mouvement, poids du jour pour dips & tractions.
+**🧠 Le coach qui impose plus lourd** — chaque charge est prescrite et expliquée en une phrase, **calée sur les crans réels de ta machine** (tu vois 41, pas 40,5 ; plaque d'appoint 2,25 kg réglable). Pendant la séance, il ajuste en direct et **t'impose plus lourd dès qu'il sent de la marge** : 2ᵉ top set, back-offs remontés, +1 cran sur les séries restantes. Check-in de 15 s → séance ajustée, jusqu'à la séance technique les très mauvais jours, ou « jour fort » où il te pousse.
+
+**📈 La progression** — courbes e1RM, **objectifs de force personnels** (+25 % depuis ton départ, projection « ~N semaines » — les machines n'ont pas de standards universels), force totale des 4 mains, volume hebdo réel vs cible par muscle, suivi du corps avec phase **Recompo** (léger déficit, protéines hautes : plus défini *et* plus fort), records automatiques.
+
+**⚡ En séance** — écran guidé : muscle travaillé partout, message en direct quand le coach change une charge, supersets antagonistes quand le temps est court, timer automatique, remplacement d'exercice classé par pertinence.
 
 ## 🧮 Comment le coach décide
 
 | Situation | Décision |
 |---|---|
-| Toutes les séries au plafond, avec marge (RIR ≥ 1) | **+1 incrément** de la machine |
-| Progrès en cours dans la fourchette | Même charge, viser **+1 rep totale** |
-| La moitié des séries sous le plancher | Charge **gelée**, consolidation |
-| 2 séances de suite sous le plancher | **−1 incrément** (ou + d'assistance aux dips/tractions) |
-| Incrément gagné mais récupération basse | Montée **reportée** à la prochaine séance |
-| Tendance de récupération basse | Volume **×0,7**, pas de record aujourd'hui |
-| 3-4 passages sans progrès | **Stagnation détectée** + pistes concrètes |
-| ≥3 mouvements clés qui stagnent + fatigue | Proposition de **semaine allégée −40 %** |
-| Plus de 4 semaines d'arrêt | **Reprise** ≈ 1 cran en dessous, RIR 2-3 |
-| Dips / tractions validés | Assistance ↓ → poids du corps → **lest ↑** (une seule progression continue) |
-
-Chaque machine a son propre incrément réel (45 → 50 vs 45 → 47,5 kg), ses réglages (siège, prise) et ses variantes A/B **sans jamais mélanger les records**.
+| Mouvement lourd, semaine N du bloc | **Top set** = e1RM × %(reps, RPE cible) posé sur le cran réel de la machine, reps ajustées pour rester pile au RPE ; back-offs 85-90 % |
+| RPE cible (machines) | Hyper 7,5 → 9 · Force 8 → 9,5, monte chaque semaine jusqu'au deload |
+| Top set facile (≤ RPE cible −1) | **2ᵉ top set imposé** au cran du dessus + back-offs remontés |
+| Top set facile, séance suivante | **Élan** : RPE visé +0,5, le cran du dessus est pris dès qu'il est faisable |
+| Top set plus dur (≥ +1 RPE) / raté | Back-offs **−5 %** et une série en moins / **−10 %** |
+| Back-off facile (RIR ≥ 3) | **+1 cran** sur les back-offs suivants |
+| Reprise (linéaire) | 3 × 6 + 1 back-off ; 1re série à RPE ≤ 7 → **+1 cran imposé** sur la suite ; séance réussie → +1 cran (**+2** si tout à RPE ≤ 7) ; cran > 7 % de la charge → +1 rep d'abord |
+| 2 échecs d'affilée | Linéaire −7,5 % / RPE : e1RM −5 % et reprise à RPE 7 ; bascule en pilotage par blocs quand le linéaire s'essouffle |
+| Accessoire : 1re série au-dessus de la plage (ou RIR ≥ 3) | **+1 cran imposé** sur les séries restantes |
+| Accessoire : plafond largement dépassé | **+2 crans** d'un coup (via l'e1RM de l'exercice) |
+| Accessoire : cran énorme (> 10 % de la charge) | Reps d'abord (plafond +2), puis on saute |
+| Accessoire : 2 séances sous le plancher | **−1 cran** (ou + d'assistance aux dips/tractions) |
+| Check-in ≥ 4,2/5 | **Jour fort** : RPE +0,5, cran du dessus |
+| Check-in < 2,8 / < 2,2 | RPE −1, moins de volume / **séance technique** |
+| Exercice qui stagne sur le bloc | **Remplacé** au bloc suivant (même pattern, meilleur score) |
+| Séance manquée | Rien n'est sauté : la rotation reprend à la séance suivante |
+| Temps court | Supersets antagonistes, puis retrait d'isolations (jamais le lourd) |
+| Plus de 3 semaines sans un mouvement | e1RM décoté de **2,5 %/sem** (max −15 %), reprise à RPE 6,5 |
+| Douleur ≥ 5/10 sur une zone | Exercices qui la stressent **remplacés** aujourd'hui |
 
 ## 📱 Installation sur iPhone (une seule fois)
 
